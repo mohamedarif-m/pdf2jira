@@ -1,0 +1,3 @@
+([('PDF_to_Jira',
+   '/Users/bmnoorishah/Documents/requirements/dist/PDF_to_Jira',
+   'EXECUTABLE')],)
